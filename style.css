@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.section{
+    background-image: linear-gradient(to right, #a517ba,#5f1782);
+    padding: 0;
+}
+
+
+
+.section1{
+    border: 2px solid  #a517ba;
+    height:350px;
+    width: 100%;
+    background-image: linear-gradient( #a517ba,#5f1782);
+    color: #fff;
+    padding-top: 25%;
+    padding-top: 5%;
+    font-size: 20px;
+    margin-top: 100;
+    float: left;
+}
+
+
+.web1 img{
+   height: 280px;
+    margin-left: 850px;
+    margin-top: -150px;
+    float: left;
+}
+
+
+
+.web4 img{
+    height: 300px;
+    margin-top: 30px;
+    }
